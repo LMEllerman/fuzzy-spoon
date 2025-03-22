@@ -1,0 +1,87 @@
+    1  ls
+    2  cd /
+    3  ls
+    4  cd mnt
+    5  ls
+    6  cd c
+    7  ls
+    8  cd Users
+    9  ls
+   10  cd namre
+   11  ls
+   12  cd Documents
+   13  ls
+   14  cd
+   15  ls
+   16  cd --help
+   17  ls -F
+   18  pwd
+   19  cd python-novice-gapminder-data/
+   20  ls -F
+   21  cd data/
+   22  ls -F
+   23  ls
+   24  cd ..
+   25  ls -f
+   26  ls -F
+   27  cd data/
+   28  ls
+   29  ls -f
+   30  ls
+   31  ls -F
+   32  cd
+   33  pwd
+   34  ls -f
+   35  ls -F
+   36  ls --help
+   37  pwd
+   38  ls
+   39  cd python-novice-gapminder-data/
+   40  ls
+   41  cd data
+   42  ls
+   43  cd ..
+   44  ls
+   45  cd ~/python-novice-gapminder-data/
+   46  ls
+   47  cd data
+   48  ls
+   49  ls -lh
+   50  mkdir carpentries
+   51  ls
+   52  mkdir blah
+   53  ls
+   54  rm blah
+   55  rm -r blah
+   56  ls
+   57  explorer.exe .
+   58  ls
+   59  ls -lh
+   60  ls -s
+   61  touch file
+   62  ls
+   63  ls -lh
+   64  ls -F
+   65  mv file gapminder_all.csv carpentries
+   66  ls carpentries
+   67  mv gapminder_all.csv ..
+   68  cd carpentries
+   69  ls
+   70  mv gapminder_all.csv ..
+   71  ls
+   72  mv file file.txt
+   73  ls
+   74  ls -s
+   75  nano file.txt
+   76  nano file
+   77  ls
+   78  nano file.txt
+   79  nano file
+   80  ls
+   81  rm file
+   82  ls
+   83  nano file.txt
+   84  ls -s
+   85* 
+   86  history
+   87  history > history.txt
